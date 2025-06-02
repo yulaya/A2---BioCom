@@ -20,7 +20,7 @@ see [Weakly Connected Digraph](https://mathworld.wolfram.com/WeaklyConnectedDigr
 
 Each unique (nonisomorphic) digraph of size n, is a motif of size n. 
 
-as mentioned, since the growth of (Number of weakly connected digraphs with n unlabeled nodes.) as a function of (n) is very rapid, the runtime of the functions implemented in this repository, also grows rapidly. runtime for an instance where n=6, approximated at 19-20 hours. 
+as mentioned, since the growth of (Number of weakly connected digraphs with n unlabeled nodes.) as a function of (n) is very rapid, the runtime of the functions implemented in this repository, also grows rapidly. runtime for an instance where n=6, approximated at 7 hours. 
 
 -----
 This code was written in a AI assisted environment (Google Colab -- gemini)
